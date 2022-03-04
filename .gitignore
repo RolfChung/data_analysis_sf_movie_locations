@@ -1,3 +1,5 @@
 source/*
 sf_movie_locations_revenue_long_version.ipynb
 source
+top_ten_locations_sf.csv
+^sf_hits_*
